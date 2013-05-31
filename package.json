@@ -1,0 +1,17 @@
+{
+  "name": "nodecopter",
+  "version": "0.0.0",
+  "description": "JSConf NodeCopter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "ar-drone": "git://github.com/felixge/node-ar-drone.git",
+    "opencv": "~0.1.0",
+    "dronestream": "~1.0.3"
+  }
+}
